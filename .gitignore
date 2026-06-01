@@ -3,3 +3,6 @@
 
 # removing the venv
 **venv
+
+# removing the pycache files
+**__pycache__**
