@@ -1,2 +1,2 @@
 # ML_Learning_Pluto
-Pluto_intership two python projects
+Pluto_intership python project
